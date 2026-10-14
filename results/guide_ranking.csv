@@ -1,0 +1,6 @@
+guide_id,target_exon,pam,spacer_sequence,strand,genomic_start,genomic_end,gc_percent,on_target_score,specificity_score,off_target_count,notes,gc_penalty,composite_score
+NONO_g05,selected_target_region,GGG,GCGCGCTCTTTTCTCGGGAC,forward,,,70.0,71.0,82.0,31,CRISPOR candidate 230/fw; backup only; Not with U6/U3 warning,0.4,149.5
+NONO_g01,selected_target_region,AGG,CAATCAAGGTTTAGCTCCCG,reverse,,,50.0,76.0,74.0,37,CRISPOR candidate 107/rev; no visible warning; visible off-target contexts intergenic/intronic,0.0,146.3
+NONO_g04,selected_target_region,CGG,GGAAACGAGACGACGGAGCT,reverse,,,65.0,70.0,82.0,57,CRISPOR candidate 180/rev; no visible warning; visible off-target contexts intronic/intergenic,0.3,146.0
+NONO_g03,selected_target_region,GGG,CGGAAAAATGATTCCGCCTC,forward,,,55.0,75.0,66.0,42,CRISPOR candidate 111/fw; no visible warning; visible off-target contexts intronic/intergenic,0.1,136.70000000000002
+NONO_g02,selected_target_region,TGG,CTCGGGAGCTAAACCTTGAT,forward,,,50.0,63.0,73.0,26,CRISPOR candidate 128/fw; no visible warning; no visible exonic off-target in displayed list,0.0,133.4

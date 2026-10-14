@@ -1,0 +1,6 @@
+guide_id,selection_status,reason
+NONO_g01,provisional,Previously highlighted candidate; requires coding-target confirmation and complete score/off-target verification
+NONO_g02,provisional,Requires coding-target confirmation and complete score/off-target verification
+NONO_g03,provisional,Requires coding-target confirmation and complete score/off-target verification
+NONO_g04,requires_review,Visible predicted 3-mismatch exonic off-target annotation in GPATCH8; requires full review
+NONO_g05,requires_review,CRISPOR Not with U6/U3 warning; suitability depends on intended expression or delivery strategy
